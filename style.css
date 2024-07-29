@@ -1,0 +1,8 @@
+.score {
+    font-size: 40px;
+    display: inline;
+    background-color: rgb(185, 79, 79);
+    padding: 30px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
